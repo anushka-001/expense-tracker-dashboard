@@ -1,3 +1,9 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anushka-001/expense-tracker-dashboard/HEAD?labpath=notebooks/expense_tracker.ipynb)
+
+
+
+
+
 # 📊 Expense-Tracker Dashboard — Mini PRD
 
 | **Meta**             | |
